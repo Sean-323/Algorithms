@@ -21,7 +21,6 @@ public class S_1427소트인사이드 {
 
         for (int i = arr.length - 1; i >= 0; i--) sb.append(numbers[i]);
 
-
         // 출력
         System.out.println(sb);
     }
